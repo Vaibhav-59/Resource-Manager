@@ -84,4 +84,16 @@ git clone "url" or Download then extract file and open in vscode
 | PUT    | `/api/resources/:id` | Update a resource   |
 | DELETE | `/api/resources/:id` | Delete a resource   |
 
+---
 
+### Resources
+![Resources](client/public/images/resources.png)
+
+### Add Resource
+![Add Resource](client/public/images/addResource.png)
+
+### Edit Resource
+![Edit Resource](client/public/images/updateResource.png)
+
+### Delete Resource
+![Delete Resource](client/public/images/deleteResource.png)
