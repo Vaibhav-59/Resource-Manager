@@ -87,13 +87,13 @@ git clone "url" or Download then extract file and open in vscode
 ---
 
 ### Resources
-![Resources](client/public/images/resources.png)
+![Resources](client/public/Images/resources.png)
 
 ### Add Resource
-![Add Resource](client/public/images/addResource.png)
+![Add Resource](client/public/Images/addResource.png)
 
 ### Edit Resource
-![Edit Resource](client/public/images/updateResource.png)
+![Edit Resource](client/public/Images/updateResource.png)
 
 ### Delete Resource
-![Delete Resource](client/public/images/deleteResource.png)
+![Delete Resource](client/public/Images/deleteResource.png)
